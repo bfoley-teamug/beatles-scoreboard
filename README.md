@@ -1,0 +1,1 @@
+This scoreboard in React follows Treehouse's React Basic course.
